@@ -5,6 +5,7 @@ plugins {
 
 android {
     namespace "com.websitebeaver.opencv.example"
+    compileSdk = 36
 
     defaultConfig {
         applicationId "com.websitebeaver.opencv.example"
